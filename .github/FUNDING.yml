@@ -1,0 +1,25 @@
+# .github/FUNDING.yml
+# Replace placeholder values with your real usernames/URLs
+
+github: []
+# Up to 4 GitHub Sponsors-enabled usernames, e.g.:
+# github: ["your-github-username", "another-sponsor"]
+
+patreon: ""               # e.g. "your-patreon-name"  (single username)
+open_collective: ""       # e.g. "your-open-collective-name"
+ko_fi: ""                 # e.g. "your-kofi-name"
+tidelift: ""              # e.g. "npm/your-package"
+community_bridge: ""      # e.g. "your-community-bridge-project"
+liberapay: ""             # e.g. "your-liberapay-name"
+issuehunt: ""             # e.g. "your-issuehunt-name"
+lfx_crowdfunding: ""      # e.g. "your-lfx-project"
+polar: ""                 # e.g. "your-polar-name"
+buy_me_a_coffee: ""       # e.g. "your-buymeacoffee-name"
+thanks_dev: ""            # e.g. "your-thanks-dev-name"
+
+custom:
+  # Add up to 4 custom sponsorship URLs (e.g. alternative pages or multiple coin/crypto links)
+  # Example:
+  # - "https://example.com/sponsor"
+  # - "https://another.example/donate"
+  - ""
